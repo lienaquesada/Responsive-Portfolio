@@ -259,7 +259,7 @@ input[type=submit] {
         padding-right: 10%;
       }
       .auth-image {
-        width: 460px;
+        width: auto;
       }
       }
   
